@@ -8,11 +8,11 @@ Scopul proiectului este atât explicativ (identificarea relațiilor dintre varia
 
 - `Analiza-Cheltuieli-Consum/`
   - `data/`
-    - `Date_prelucrate.xlsx`                               *(Fișierul cu datele (2015-2024))*
+    - `Date_prelucrate.xlsx`                                *(Fișierul cu datele (2015-2024))*
   - `scripts/`
-    - `Regresie_multipla.R`                                *(Codul R pentru regresie multiplă)*
-    - `Model_ARIMAX.R`                                     *(Codul R pentru modelul ARIMAX (0,2,1))*
-  - `Analiza_cheltuieli_medi_de_consum.pdf`                *(Document rezumativ cu rezultate și concluzii)*
+    - `Regresie_multipla.R`                                 *(Codul R pentru regresie multiplă)*
+    - `Model_ARIMAX.R`                                      *(Codul R pentru modelul ARIMAX (0,2,1))*
+  - `Analiza_cheltuieli_medi_de_consum.pdf`                 *(Document rezumativ cu rezultate și concluzii)*
   - `.gitignore`
   - `README.md`                                             *(Acest fișier)*
 
