@@ -47,12 +47,12 @@ Acest proiect a fost realizat cu scop educațional și demonstrativ, pentru a fi
 
 ###### Bibliografie sugerată
 
-•	Keynes, J. M. (1936). The General Theory of Employment, Interest and Money. Palgrave Macmillan.
-•	INSSE – Institutul Național de Statistică (2024). Date statistice trimestriale. Disponibil la: https://insse.ro
-•	R Core Team (2023). R: A Language and Environment for Statistical Computing. Vienna, Austria: R Foundation for Statistical Computing. Disponibil la: https://www.R-project.org/
-•	Gujarati, D. N. (2009). Basic Econometrics (5th ed.). McGraw-Hill. (Fragment utilizat pentru regresie multiplă)
-•	Brooks, C. (2019). Introductory Econometrics for Finance (4th ed.). Cambridge University Press. (Secțiuni despre modele ARIMA)
-•	Cod R și prelucrare proprie – autorul proiectului
+- Keynes, J. M. (1936). *The General Theory of Employment, Interest and Money*. Palgrave Macmillan.
+- INSSE – Institutul Național de Statistică (2024). *Date statistice trimestriale*. Disponibil la: https://insse.ro
+- R Core Team (2023). *R: A Language and Environment for Statistical Computing*. Vienna, Austria: R Foundation for Statistical Computing. Disponibil la: https://www.R-project.org/
+- Gujarati, D. N. (2009). *Basic Econometrics* (5th ed.). McGraw-Hill. (Fragment utilizat pentru regresie multiplă)
+- Brooks, C. (2019). *Introductory Econometrics for Finance* (4th ed.). Cambridge University Press. (Secțiuni despre modele ARIMA)
+- Cod R și prelucrare proprie – autorul proiectului
 
 
 !! Autor !!
