@@ -1,0 +1,26 @@
+# Fișiere R temporare
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Fișiere de sistem
+.DS_Store
+
+# Date sensibile sau generate local
+data/*.csv
+data/*.rds
+data/*_backup*
+
+# Pachete R instalate local
+.Rbuildignore
+*.tar.gz
+
+# Fișiere Excel temporare (dacă există)
+*~
+*.tmp
+
+# Ignoră foldere specifice (dacă sunt generate)
+output/
+figures/
+cache/
